@@ -2,6 +2,7 @@
 using namespace std;
 
 int main () {
+	
 	int main () {
     // membuat variabel
     char name[20], web_address[30];
