@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main () {
+int main()
+{
 	cout << "========== PROGRAM OUTPUT ==========" << endl;
 	cout << "Hallo nama saya Juliansa \n";
 	cout << "Saya sedang belajar C++\n";
