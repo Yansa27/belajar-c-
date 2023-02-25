@@ -9,4 +9,5 @@ int main()
 	cout << "====================================" << endl;
 	cout << endl;
 	cout << "Program ini di buat oleh Mas Bambank" << endl;
+	return 0;
 }
